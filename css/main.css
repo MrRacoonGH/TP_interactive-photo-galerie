@@ -86,3 +86,26 @@ img {
         font-size: 1.5rem;
     }
 }
+
+
+
+.img-carrousel {
+    width: 650px;
+    margin: 0 auto;
+}
+
+.img-carrousel img {
+    border-radius: 16px;
+}
+
+.icons-wrapper {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
+
+.icons-wrapper img {
+    width: 50px;
+
+}
